@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd">
+    <changeSet id="f0d0243d-2aa0-4d85-be2c-37ebda225fce" author="Interview">
+        <sqlFile encoding="UTF-8" path="db/changelog/setup.sql" splitStatements="true"/>
+    </changeSet>
+</databaseChangeLog>
