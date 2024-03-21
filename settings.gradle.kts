@@ -1,1 +1,1 @@
-rootProject.name = "interview"
+rootProject.name = "kotlin-interview-scaffold"
